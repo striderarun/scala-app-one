@@ -16,7 +16,7 @@ object ScalaApp {
      * Since they are objects, operators are simply method calls!
      * So 1 + 2 is simply calling a method named + on the object 1 (an Int literal)
      */
-    println("1 + 2 = " + 1.+(5));
+    println("1 + 2 = " + 1.+(2));
     println("10/5 = " + 10./(5));
     
     /** Variables
