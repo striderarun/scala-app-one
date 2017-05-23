@@ -1,4 +1,4 @@
-package com.arun.scala
+package com.arun.inheritance
 
 class Lion extends Animal {
 
