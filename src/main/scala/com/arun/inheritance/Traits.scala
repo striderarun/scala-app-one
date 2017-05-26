@@ -13,7 +13,3 @@ class Cat extends Pet {
   override def speak { ("meow") }
   def comeToMaster { ("That's not gonna happen.") }
 }
-
-class Traits {
-
-}
